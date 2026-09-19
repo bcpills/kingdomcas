@@ -1,0 +1,6 @@
+{
+  "name": "Kingdom Grand Casino - Medieval Slots, Blackjack, Keno & Lootboxes",
+  "description": "A medieval casino suite featuring Kingdom Cascades slot game, Royal Blackjack with side bets, 40-Ball Keno, and Royal Mystery Lootboxes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
